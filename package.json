@@ -1,0 +1,31 @@
+{
+  "name": "miniapp_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-json-minify": "^1.2.2",
+    "gulp-less": "^3.5.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.3",
+    "gulp-typescript": "^4.0.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "@types/weapp-api": "0.0.2"
+  }
+}

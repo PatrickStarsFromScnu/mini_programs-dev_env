@@ -12,6 +12,7 @@
 gulp build
 ```
 编译src，并更新dist
+
 监听：
 ```
 gulp watch
